@@ -2,8 +2,8 @@
 
 **Cloud Computing for Data Analysis (ITCS 6190/8190, Fall 2025)**  
 Instructor: *Marco Vieira*<br />
-Name: *Manish Yendeti*<br />  
-ID: *801429980*
+Name: *Manish Yendeti*<br /> 
+Id: *801429980*
 
 ---
 
