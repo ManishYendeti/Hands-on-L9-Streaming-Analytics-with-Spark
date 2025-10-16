@@ -15,7 +15,7 @@ It includes three Spark streaming tasks and a Python data generator that continu
 
 ## Project Structure
 ```
-Handson-L8-Spark-SQL_Streaming/
+Handson-L9-Spark-SQL_Streaming/
 ├── outputs/
 │   ├── task1_outputs/
 │   ├── task2_outputs/
